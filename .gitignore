@@ -1,0 +1,7 @@
+.venv/
+all.json
+extraction.py
+page1.json
+reponseCurl.json
+scrap-non-fonctionnel.py
+test.txt
